@@ -1,0 +1,14 @@
+img{
+    width: 100px;
+}
+img:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0,0.5);
+}
+
+#acertos, #erros{
+    display: inline;
+}
+
+#p{
+    text-align: center;
+}
